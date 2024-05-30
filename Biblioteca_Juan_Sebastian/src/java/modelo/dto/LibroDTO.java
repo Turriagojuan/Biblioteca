@@ -6,10 +6,7 @@ package modelo.dto;
 
 import java.util.Objects;
 
-/**
- *
- 
- */
+
 public class LibroDTO {
     private long isbn;
     private String nombre;

@@ -6,10 +6,6 @@ package modelo.dto;
 
 import java.util.Objects;
 
-/**
- *
- * 
- */
 public class UsuarioDTO {
     private int id;
     private String nombre;

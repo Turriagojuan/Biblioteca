@@ -6,9 +6,7 @@ package modelo.dao;
 
 import java.util.List;
 
-/**
 
- */
 public interface Contrato <Cualquiercosa>{
     
     public boolean create(Cualquiercosa nuevo);

@@ -14,9 +14,6 @@ import jakarta.servlet.http.HttpSession;
 import modelo.dao.UsuarioDAO;
 import modelo.dto.UsuarioDTO;
 
-
- 
-
 public class ValidaCTO extends HttpServlet {
 
     /**
